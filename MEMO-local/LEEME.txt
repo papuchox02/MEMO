@@ -1,0 +1,45 @@
+MEMO — Prototipo local de interfaz
+
+ABRIR
+Haz doble clic en MEMO.html. Se abre en tu navegador y funciona sin Internet.
+No requiere instalar paquetes, crear cuentas ni ejecutar un servidor.
+Puedes usar el botón Pantalla completa o F11.
+
+USAR
+• Clic, Tab o flechas: navegar. Enter: seleccionar. Esc: volver.
+• El joystick de la parte inferior simula los controles físicos.
+• Calendario incluye tareas: permite crear, editar, completar y eliminar.
+• Las vistas Día, Semana, Mes y Año permiten recorrer las actividades.
+• Pomodoro permite iniciar, pausar, reanudar, cancelar y personalizar duraciones.
+  Continúa al cambiar de pantalla. Al cerrar, se recupera en pausa y pregunta
+  si quieres reanudar. No cuenta el tiempo que el programa permaneció cerrado.
+• Chatbot es una simulación SIN IA. Prueba «Mis tareas», «Mis eventos»
+  o «Crear tarea: Estudiar cálculo». Las tareas requieren confirmación.
+• Voz permite escribir una transcripción de prueba; no captura audio.
+• El icono de usuario abre los ajustes encima de la pantalla actual.
+• El indicador Wi-Fi simula desconexión; las funciones locales siguen activas.
+
+DATOS
+Se guardan en el almacenamiento local del navegador. Usa siempre el mismo
+navegador y ubicación del archivo. El modo privado, borrar los datos del
+navegador o cambiar de ubicación puede hacer que no se recuperen.
+Puedes exportar una copia JSON desde Usuario > Almacenamiento.
+Si el navegador impide el guardado, se muestra un aviso y los datos solo
+se mantienen durante la sesión. No se envían datos a Internet.
+Los datos iniciales son ejemplos. Los avisos requieren mantener MEMO abierto.
+
+ALCANCE
+Interfaz basada en MEMOMD.md y los siete bocetos compartidos.
+Pantalla lógica: 480 × 320, ampliable para verla en el computador.
+Tareas integradas en Calendario. Zona horaria: America/Panama (UTC−5).
+Joystick: seleccionar mediante pulsación central como supuesto provisional.
+Pantalla de calendario inicial: mes. Ángulo simulado limitado a 0–80°.
+El logo es una aproximación tipográfica, no el recurso gráfico definitivo.
+Volumen controla el aviso sonoro local; brillo afecta la vista de prueba.
+Ángulo y Wi-Fi son simulaciones. No controla servo ni otro hardware.
+No es firmware para el ESP32 ni una aplicación nativa instalada.
+No incluye backend, LLM, reconocimiento de voz ni sincronización externa.
+
+SIGUIENTE ETAPA
+Validar tamaños, navegación y organización en este prototipo. Después
+confirmar placa, controlador táctil, conexiones y herramientas del firmware.
