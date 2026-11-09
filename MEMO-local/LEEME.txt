@@ -7,7 +7,13 @@ Puedes usar el botón Pantalla completa o F11.
 
 USAR
 • Clic, Tab o flechas: navegar. Enter: seleccionar. Esc: volver.
-• El joystick de la parte inferior simula los controles físicos.
+• El joystick de la parte inferior está dispuesto en cruz. Las flechas mueven
+  la selección por la pantalla; el botón central pulsa la opción seleccionada.
+  Un contorno naranja indica la selección. Mantener una flecha repite el movimiento.
+  Funciona también en barras superior/inferior y ventanas de ajustes.
+  En campos numéricos, deslizadores y selectores: pulsa el centro para ajustar
+  con flechas, y pulsa otra vez para volver a navegar. En campos de texto puedes
+  seguir escribiendo con el teclado del computador. Tacto y clic siguen activos.
 • Calendario incluye tareas: permite crear, editar, completar y eliminar.
 • Las vistas Día, Semana, Mes y Año permiten recorrer las actividades.
 • Pomodoro permite iniciar, pausar, reanudar, cancelar y personalizar duraciones.
@@ -15,7 +21,9 @@ USAR
   si quieres reanudar. No cuenta el tiempo que el programa permaneció cerrado.
 • Chatbot es una simulación SIN IA. Prueba «Mis tareas», «Mis eventos»
   o «Crear tarea: Estudiar cálculo». Las tareas requieren confirmación.
-• Voz permite escribir una transcripción de prueba; no captura audio.
+• Voz anima una transcripción de ejemplo; no captura audio. Enviar manda
+  el mensaje preliminar al chatbot simulado. Pulsar Voz otra vez detiene
+  la animación. Los borradores se conservan al salir.
 • El icono de usuario abre los ajustes encima de la pantalla actual.
 • El indicador Wi-Fi simula desconexión; las funciones locales siguen activas.
 
